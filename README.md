@@ -14,7 +14,8 @@
 This project serves as a comprehensive guide to building an end-to-end data engineering pipeline. The pipeline is built on Apache Airflow and dbt, and is deployed on Astronomer. The data is stored in Google Cloud Storage and BigQuery. The pipeline is built to be modular and scalable, and can be easily adapted to other use cases.
 
 The dataset used in this project is the [Online Retail Data Set](https://www.kaggle.com/datasets/tunguz/online-retail) from Kaggle. This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
-![image](https://github.com/ritikdhame/Sales_Dashboard_DB_Airflow_GCP/assets/7029092/46a97384-d7b1-4f31-bc3f-bc41ef34a971)
+![Screenshot 2024-03-16 094535](https://github.com/ritikdhame/Sales_Dashboard_DB_Airflow_GCP/assets/7029092/a5d975d8-e555-4fa9-9638-90c2361f83af)
+
 
 ### Dataset Description
 
@@ -40,7 +41,8 @@ The dataset used in this project is the [Online Retail Data Set](https://www.kag
 * Docker, Docker Compose
 
 ## Pipeline
-<img width="1509" alt="Screenshot 2023-07-13 at 16 41 19" src="https://github.com/ritikdhame/Sales_Dashboard_DB_Airflow_GCP/assets/7029092/98a1b682-29cc-4a80-92e3-2202d522a515">
+![1](https://github.com/ritikdhame/Sales_Dashboard_DB_Airflow_GCP/assets/7029092/ef7c1a20-281e-4b06-8d6d-58e080acbf28)
+
 
 ## Data Modeling
 <img width="718" alt="Screenshot 2023-07-13 at 16 59 35" src="https://github.com/ritikdhame/Sales_Dashboard_DB_Airflow_GCP/assets/7029092/c6ba0b2e-fac3-49e4-9660-cd6f61fc24a8">
